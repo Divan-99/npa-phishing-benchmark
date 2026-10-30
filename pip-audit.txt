@@ -1,0 +1,14 @@
+Name Version ID              Fix Versions
+---- ------- --------------- ------------
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-1795\PYSEC-2026-1795]8;;\ 25.3
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-1796\PYSEC-2026-1796]8;;\ 26.0
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-2875\PYSEC-2026-2875]8;;\ 26.1
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-2876\PYSEC-2026-2876]8;;\ 26.1
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-196\PYSEC-2026-196]8;;\  26.1.2
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-1795\PYSEC-2026-1795]8;;\ 25.3
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-1796\PYSEC-2026-1796]8;;\ 26.0
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-196\PYSEC-2026-196]8;;\  26.1.2
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-2875\PYSEC-2026-2875]8;;\ 26.1
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-2876\PYSEC-2026-2876]8;;\ 26.1
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-3721\PYSEC-2026-3721]8;;\ 26.2
+]8;;https://pypi.org/project/pip/\pip]8;;\  25.1.1  ]8;;https://osv.dev/vulnerability/PYSEC-2026-3721\PYSEC-2026-3721]8;;\ 26.2.0

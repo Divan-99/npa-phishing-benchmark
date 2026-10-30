@@ -1,0 +1,33 @@
+
+ language                en     af
+emails                 117    117
+TP                       1      1
+FN                      56     56
+FP                       0      0
+TN                      60     60
+accuracy             0.521  0.521
+precision              1.0    1.0
+recall               0.018  0.018
+f1                   0.034  0.034
+fpr                    0.0    0.0
+roc_auc              0.692  0.606
+pr_auc               0.682  0.577
+mean_score_phishing   0.93  0.416
+mean_score_legit     0.107  0.092
+
+Same email, different outcome: 0 became wrong, 0 became right (exact McNemar p = 1.0000)
+Mean score change per email (phishing): -0.51
+Phishing scores after translation: 15 fell, 42 unchanged, 0 rose (Wilcoxon signed-rank p = 0.0006)
+
+Rules that lost the most hits after translation:
+                    rule  hits_en  hits_af  difference
+               URI_PHISH        8        0          -8
+TVD_PH_BODY_ACCOUNTS_PRE        5        0          -5
+              TVD_PH_SEC        2        0          -2
+      ACCT_PHISHING_MANY        2        0          -2
+     T_PDS_OTHER_BAD_TLD        2        0          -2
+  T_FILL_THIS_FORM_SHORT        2        0          -2
+         SHY_OBFU_EXPIRE        1        0          -1
+       NORMAL_HTTP_TO_IP        1        0          -1
+                 URI_HEX        1        0          -1
+        BODY_ENHANCEMENT        1        0          -1

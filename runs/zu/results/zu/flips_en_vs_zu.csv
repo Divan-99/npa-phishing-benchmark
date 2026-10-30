@@ -1,0 +1,3 @@
+email_id,language_en,label,sa_score_en,predicted_en,rules_hit_en,language_zu,sa_score_zu,predicted_zu,rules_hit_zu,score_change,change
+EMAIL_0359,en,1,7.0,1,"FUZZY_PAYPAL,FUZZY_SECURITY,MIXED_ES,NO_RECEIVED,NO_RELAYS,UNICODE_OBFU_ASC",zu,3.5,0,"FUZZY_PAYPAL,NO_RECEIVED,NO_RELAYS,UNICODE_OBFU_ASC",-3.5,"correct in EN, wrong in zu"
+EMAIL_0473,en,1,5.4,1,"ACCT_PHISHING_MANY,NO_RECEIVED,NO_RELAYS,TO_IN_SUBJ,T_PDS_FROM_NAME_TO_DOMAIN,URI_PHISH",zu,0.1,0,"NO_RECEIVED,NO_RELAYS,TO_IN_SUBJ,T_PDS_FROM_NAME_TO_DOMAIN",-5.300000000000001,"correct in EN, wrong in zu"
